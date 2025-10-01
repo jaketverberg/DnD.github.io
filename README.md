@@ -1,2 +1,2 @@
-# DnD.github.io
+# Obsidian Dragons
 Personal Obsidian Vault for Dungeons and Dragons. 
